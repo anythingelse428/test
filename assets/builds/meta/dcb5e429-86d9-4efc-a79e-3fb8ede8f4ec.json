@@ -1,1 +1,0 @@
-{"id":"dcb5e429-86d9-4efc-a79e-3fb8ede8f4ec","timestamp":1701699545702,"matcher":{"static":{"/":{"prerender":true},"/test":{"prerender":true}},"wildcard":{"":{"prerender":true},"/test":{"prerender":true}},"dynamic":{"/test":{"static":{"/":{"prerender":true}},"wildcard":{},"dynamic":{}}}},"prerendered":[]}
