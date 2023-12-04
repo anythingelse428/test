@@ -1,0 +1,1 @@
+{"id":"e30d045a-ace0-45de-9ecd-a781e25f1661","timestamp":1701704183582,"matcher":{"static":{"/":{"prerender":true},"/test":null},"wildcard":{"/test":{"prerender":true}},"dynamic":{}},"prerendered":["/analytics","/web-dev","/outstaffing","/support","/backend","/fullstack"]}
