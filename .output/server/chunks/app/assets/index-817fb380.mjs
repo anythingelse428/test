@@ -307,7 +307,7 @@ const _sfc_main = /* @__PURE__ */ defineComponent({
       _push(ssrRenderComponent(_component_nuxt_link, { to: "/analytics" }, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<div class="services__item"${_scopeId}><img${ssrRenderAttr("src", _imports_4)} width="193" height="193" alt="\u0410\u043D\u0430\u043B\u0438\u0442\u0438\u043A\u0430" class="services__item-img" loading="lazy" fetchpriority="low"${_scopeId}><div class="services__item-name"${_scopeId}>\u0410\u043D\u0430\u043B\u0438\u0442\u0438\u043A\u0430</div></div>`);
+            _push2(`<div class="services__item"${_scopeId}><img${ssrRenderAttr("src", _imports_4)} width="193" height="193" alt="" class="services__item-img" loading="lazy" fetchpriority="low"${_scopeId}><div class="services__item-name"${_scopeId}>\u0410\u043D\u0430\u043B\u0438\u0442\u0438\u043A\u0430</div></div>`);
           } else {
             return [
               createVNode("div", { class: "services__item" }, [
@@ -315,7 +315,7 @@ const _sfc_main = /* @__PURE__ */ defineComponent({
                   src: _imports_4,
                   width: "193",
                   height: "193",
-                  alt: "\u0410\u043D\u0430\u043B\u0438\u0442\u0438\u043A\u0430",
+                  alt: "",
                   class: "services__item-img",
                   loading: "lazy",
                   fetchpriority: "low"
@@ -330,7 +330,7 @@ const _sfc_main = /* @__PURE__ */ defineComponent({
       _push(ssrRenderComponent(_component_nuxt_link, { to: "/web-dev" }, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<div class="services__item"${_scopeId}><img${ssrRenderAttr("src", _imports_5)} width="160" height="122" alt="Web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430" class="services__item-img" loading="lazy" fetchpriority="low"${_scopeId}><div class="services__item-name"${_scopeId}>Web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430</div></div>`);
+            _push2(`<div class="services__item"${_scopeId}><img${ssrRenderAttr("src", _imports_5)} width="160" height="122" alt="" class="services__item-img" loading="lazy" fetchpriority="low"${_scopeId}><div class="services__item-name"${_scopeId}>Web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430</div></div>`);
           } else {
             return [
               createVNode("div", { class: "services__item" }, [
@@ -338,7 +338,7 @@ const _sfc_main = /* @__PURE__ */ defineComponent({
                   src: _imports_5,
                   width: "160",
                   height: "122",
-                  alt: "Web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430",
+                  alt: "",
                   class: "services__item-img",
                   loading: "lazy",
                   fetchpriority: "low"
@@ -353,7 +353,7 @@ const _sfc_main = /* @__PURE__ */ defineComponent({
       _push(ssrRenderComponent(_component_nuxt_link, { to: "/frontend" }, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<div class="services__item"${_scopeId}><img${ssrRenderAttr("src", _imports_6)} width="180" height="180" alt="Fullstack" class="services__item-img" loading="lazy" fetchpriority="low"${_scopeId}><div class="services__item-name"${_scopeId}>Frontend</div></div>`);
+            _push2(`<div class="services__item"${_scopeId}><img${ssrRenderAttr("src", _imports_6)} width="180" height="180" alt="" class="services__item-img" loading="lazy" fetchpriority="low"${_scopeId}><div class="services__item-name"${_scopeId}>Frontend</div></div>`);
           } else {
             return [
               createVNode("div", { class: "services__item" }, [
@@ -361,7 +361,7 @@ const _sfc_main = /* @__PURE__ */ defineComponent({
                   src: _imports_6,
                   width: "180",
                   height: "180",
-                  alt: "Fullstack",
+                  alt: "",
                   class: "services__item-img",
                   loading: "lazy",
                   fetchpriority: "low"
@@ -376,7 +376,7 @@ const _sfc_main = /* @__PURE__ */ defineComponent({
       _push(ssrRenderComponent(_component_nuxt_link, { to: "/backend" }, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<div class="services__item"${_scopeId}><img${ssrRenderAttr("src", _imports_0$1)} width="188" height="188" alt="Backend" class="services__item-img" loading="lazy" fetchpriority="low"${_scopeId}><div class="services__item-name"${_scopeId}>Backend</div></div>`);
+            _push2(`<div class="services__item"${_scopeId}><img${ssrRenderAttr("src", _imports_0$1)} width="188" height="188" alt="" class="services__item-img" loading="lazy" fetchpriority="low"${_scopeId}><div class="services__item-name"${_scopeId}>Backend</div></div>`);
           } else {
             return [
               createVNode("div", { class: "services__item" }, [
@@ -384,7 +384,7 @@ const _sfc_main = /* @__PURE__ */ defineComponent({
                   src: _imports_0$1,
                   width: "188",
                   height: "188",
-                  alt: "Backend",
+                  alt: "",
                   class: "services__item-img",
                   loading: "lazy",
                   fetchpriority: "low"
@@ -399,7 +399,7 @@ const _sfc_main = /* @__PURE__ */ defineComponent({
       _push(ssrRenderComponent(_component_nuxt_link, { to: "/support" }, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<div class="services__item"${_scopeId}><img${ssrRenderAttr("src", _imports_1$1)} width="112" height="112" alt="\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430 \u0433\u043E\u0442\u043E\u0432\u044B\u0445 \u0440\u0435\u0448\u0435\u043D\u0438\u0439" class="services__item-img" loading="lazy" fetchpriority="low"${_scopeId}><div class="services__item-name"${_scopeId}>\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430 \u0433\u043E\u0442\u043E\u0432\u044B\u0445 \u0440\u0435\u0448\u0435\u043D\u0438\u0439</div></div>`);
+            _push2(`<div class="services__item"${_scopeId}><img${ssrRenderAttr("src", _imports_1$1)} width="112" height="112" alt="" class="services__item-img" loading="lazy" fetchpriority="low"${_scopeId}><div class="services__item-name"${_scopeId}>\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430 \u0433\u043E\u0442\u043E\u0432\u044B\u0445 \u0440\u0435\u0448\u0435\u043D\u0438\u0439</div></div>`);
           } else {
             return [
               createVNode("div", { class: "services__item" }, [
@@ -407,7 +407,7 @@ const _sfc_main = /* @__PURE__ */ defineComponent({
                   src: _imports_1$1,
                   width: "112",
                   height: "112",
-                  alt: "\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430 \u0433\u043E\u0442\u043E\u0432\u044B\u0445 \u0440\u0435\u0448\u0435\u043D\u0438\u0439",
+                  alt: "",
                   class: "services__item-img",
                   loading: "lazy",
                   fetchpriority: "low"
@@ -437,4 +437,4 @@ _sfc_main.setup = (props, ctx) => {
 };
 
 export { _sfc_main as default };
-//# sourceMappingURL=index-2ac71795.mjs.map
+//# sourceMappingURL=index-817fb380.mjs.map

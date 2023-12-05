@@ -43,7 +43,7 @@ const _sfc_main$2 = /* @__PURE__ */ defineComponent({
       _push(ssrRenderComponent(_component_nuxt_link, { to: "/" }, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<div class="nav-menu__logo"${_scopeId}><img width="48" height="48"${ssrRenderAttr("src", _imports_0$1)} alt="GolDev" loading="lazy"${_scopeId}> GolDev </div>`);
+            _push2(`<div class="nav-menu__logo"${_scopeId}><img width="48" height="48"${ssrRenderAttr("src", _imports_0$1)} alt loading="lazy"${_scopeId}> GolDev </div>`);
           } else {
             return [
               createVNode("div", { class: "nav-menu__logo" }, [
@@ -51,7 +51,7 @@ const _sfc_main$2 = /* @__PURE__ */ defineComponent({
                   width: "48",
                   height: "48",
                   src: _imports_0$1,
-                  alt: "GolDev",
+                  alt: "",
                   loading: "lazy"
                 }),
                 createTextVNode(" GolDev ")
@@ -216,6 +216,19 @@ function _sfc_ssrRender(_ctx, _push, _parent, _attrs) {
     }),
     _: 1
   }, _parent));
+  _push(`</div><div class="footer-row">`);
+  _push(ssrRenderComponent(_component_nuxt_link, { to: "/support" }, {
+    default: withCtx((_, _push2, _parent2, _scopeId) => {
+      if (_push2) {
+        _push2(` \u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430 \u0433\u043E\u0442\u043E\u0432\u044B\u0445 \u0440\u0435\u0448\u0435\u043D\u0438\u0439 `);
+      } else {
+        return [
+          createTextVNode(" \u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430 \u0433\u043E\u0442\u043E\u0432\u044B\u0445 \u0440\u0435\u0448\u0435\u043D\u0438\u0439 ")
+        ];
+      }
+    }),
+    _: 1
+  }, _parent));
   _push(`</div></div></footer>`);
 }
 const _sfc_setup$1 = _sfc_main$1.setup;
@@ -248,4 +261,4 @@ _sfc_main.setup = (props, ctx) => {
 };
 
 export { _sfc_main as default };
-//# sourceMappingURL=default-0788529f.mjs.map
+//# sourceMappingURL=default-855ea39b.mjs.map

@@ -642,7 +642,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import('./assets/index-2ac71795.mjs').then((m) => m.default || m)
+    component: () => import('./assets/index-817fb380.mjs').then((m) => m.default || m)
   },
   {
     name: "support",
@@ -957,7 +957,7 @@ const plugins = [
   components_plugin_KR1HBZs4kY
 ];
 const layouts = {
-  default: () => import('./assets/default-0788529f.mjs').then((m) => m.default || m)
+  default: () => import('./assets/default-855ea39b.mjs').then((m) => m.default || m)
 };
 const LayoutLoader = defineComponent({
   name: "LayoutLoader",
